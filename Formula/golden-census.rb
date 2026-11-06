@@ -3,8 +3,8 @@ class GoldenCensus < Formula
 
   desc "Characterization harness: record a program's output bytes, compare them later"
   homepage "https://github.com/bunkanoyume/golden-census"
-  url "https://github.com/bunkanoyume/golden-census/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "ad59312bc3219db7b9200f022ef830253d8c7ba45ede1ee9885dd11860ecad1b"
+  url "https://github.com/bunkanoyume/golden-census/archive/refs/tags/v1.0.1.tar.gz"
+  sha256 "1ad4a0d38c370f65e19f36e4bbf11796cff05ba10bf89bcab67a7caa2373ef4e"
   license "MIT"
   head "https://github.com/bunkanoyume/golden-census.git", branch: "main"
 
